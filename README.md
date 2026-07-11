@@ -13,7 +13,7 @@ A REST API for monitoring Minecraft server uptime, player counts, and history. T
 
 ## Base URL
 
-> Coming soon (deploying to Hack Club Nest)
+https://ierotheos.site
 
 ## Authentication
 
